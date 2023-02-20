@@ -1,5 +1,5 @@
 SOURCE_URL=https://downloads.apache.org/guacamole/1.5.0/binary/guacamole-1.5.0.war
-SOURCE_SUM=92fb06e3ce8fe4f932ddfdffd75a352c06ab58d3bd0a946faa5beda73e8592f0
+SOURCE_SUM=9c4e807aa70bc138f3b6cc66cc44b75daa944a015944b9ab6f780d7868498620
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=false
